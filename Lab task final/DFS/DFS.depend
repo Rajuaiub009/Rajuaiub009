@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627154808 source:c:\users\user\documents\dfs\main.cpp
+	<iostream>
+	<conio.h>
+
